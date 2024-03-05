@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Engombe Lokanga</h1>
 <h3 align="center">A freelance web developer & student</h3>
 
