@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Engombe Lokanga</h1>
-<h3 align="center">A freelance web developer & student</h3>
-
-- 📫 How to reach me **engombeel13@gmail.com**
-
-- 🌐 My personal site
-**www.engombelokanga.site**
+<h1 align="center">Hi there👋, I'm Engombe😀</h1>
+<h3 align="center">An aspiring software developer👨‍💻</h3>
+<h3 align="center">A Computing🖥 and IT student👨‍🎓 at Birmingham City University🎓</h3>
+<h3 align="center">A Freelance Web Developer with my own agency, HODLOK</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
