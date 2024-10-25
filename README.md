@@ -1,14 +1,12 @@
 <h1 align="center">Hi there👋, I'm Engombe😀</h1>
-<h3 align="center">An aspiring software developer👨‍💻</h3>
-<h3 align="center">A Computing🖥 and IT student👨‍🎓 at Birmingham City University🎓</h3>
-<h3 align="center">A Freelance Web Developer with my own agency, HODLOK</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/engombelokanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/engombelokanga" height="30" width="40" /></a>
-<a href="https://instagram.com/code.engombe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code.engombe" height="30" width="40" /></a>
-</p>
-
+<h2>About Me</h2>
+<ul>
+  <li>An aspiring <strong>software developer</strong>👨‍💻</li>
+  <li>A <strong>Computing🖥</strong> and <strong>IT</strong> student👨‍🎓 at Birmingham City University🎓</li>
+  <li>Connect with me on <a href="https://linkedin.com/in/https://www.linkedin.com/in/engombelokanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/engombelokanga" height="30" width="40" /></a> and
+<a href="https://instagram.com/code.engombe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code.engombe" height="30" width="40" /></a> </li> as I document my journey in <strong>tech</strong> from <strong>university</strong> to <strong>business</strong>
+</ul>
+<h2>Tools</h2>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
