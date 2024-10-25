@@ -4,7 +4,8 @@
   <li>An aspiring <strong>software developer</strong>👨‍💻</li>
   <li>A <strong>Computing🖥</strong> and <strong>IT</strong> student👨‍🎓 at Birmingham City University🎓</li>
   <li>Connect with me on <a href="https://linkedin.com/in/https://www.linkedin.com/in/engombelokanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/engombelokanga" height="30" width="40" /></a> and
-<a href="https://instagram.com/code.engombe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code.engombe" height="30" width="40" /></a> </li> as I document my journey in <strong>tech</strong> from <strong>university</strong> to <strong>business</strong>
+<a href="https://instagram.com/code.engombe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code.engombe" height="30" width="40" /></a> as I document my journey in <strong>tech</strong> from <strong>university</strong> to <strong>business</strong></li>
+  <li>Check out my <strong>blog</strong> on <a href="https://medium.com/@engombelokanga">Medium</a></li>
 </ul>
 <h2>Tools</h2>
 <h3 align="left">Programming Languages</h3>
